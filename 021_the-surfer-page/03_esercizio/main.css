@@ -1,0 +1,26 @@
+html{
+  background-color: #00539f;
+}
+
+body{
+  width:60%;
+  margin: 0 auto;
+  background-color: #00C957;
+  border: 5px solid black;
+}
+
+img{
+  width: 80%;
+  display: block;
+  margin: 20px auto;
+  border-radius: 100%;
+  border: 20px groove orange;
+}
+
+#primary{
+  color: #0266C8;
+}
+
+#secondary{
+  color: #F90101;
+}
